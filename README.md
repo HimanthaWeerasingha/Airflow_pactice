@@ -1,1 +1,1 @@
-"# This repository include several apache air flow practice projects. each project develop in new branch" 
+"## This project based on airflow bash operator\nPlease refer below url to download dataset\n sudo curl https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0250EN-SkillsNetwork/labs/Final%20Assignment/tolldata.tgz -o /home/project/airflow/dags/finalassignment/tolldata.tgz" 
